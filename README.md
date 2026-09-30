@@ -85,3 +85,11 @@ You can check that your tool was detected correctly during configuration by chec
 the generated file: `cmake_discovered_tools.hpp`. The tool will then be auto discovered and listed as
 an available tool when you run `./multi-tool` with no arguments and `./multi-tool MyNewTool --help`
 will list the options specific to your tool.
+
+## Trademarks and non-affiliation
+
+Product and company names in this repository belong to their owners and are used only to say what this project works with. HF Laboratories is not affiliated with, endorsed by, or sponsored by any of them.
+
+- Graphcore, IPU, Poplar are trademarks or registered trademarks of Graphcore Limited.
+
+See [hflabs.dev/legal/trademarks](https://hflabs.dev/legal/trademarks) for the full list.
